@@ -4,8 +4,8 @@
 
 ---
 
-- :heart: I’m love Python 
-- :speech_balloon: Ask me about anything related to Python
+
+
 - :mailbox: How to reach me: [@Discord](https://discord.com/channels/@me/712373144987369606)
 -  <span style="color: green"> :mount_fuji: My main project is Last Team And Last Games
 </span>
